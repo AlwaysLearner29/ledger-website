@@ -230,3 +230,7 @@ footer{
 .send-btn{
     padding:0.25rem 275px;
 }
+a{
+    text-decoration:none;
+    color:white;
+}
